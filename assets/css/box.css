@@ -1,0 +1,99 @@
+   /*********************************************************************************
+   *                                                                                *
+   * Create by w11ad                                                                *
+   * https://github.com/w11ad/                                                      *
+   *                                                                                *
+   * Versoon beta  March/22/2025  upload                                            *
+   * Version 1.0  March/22/2025 画面を中央ぞろえに修正                                *
+   *                                                                                *
+   *                                                                                *
+   *                                                                                *
+   * Thank you for:                                                                 *
+   * Microsoft Windows11 https://microsoft.com/windows11/                           *
+   * VScode Desktop https://vscode.com/  Online Editor https://vscode.dev/          *
+   * Github Desktop https://github.com/  Online Editor https://github.dev/          *
+   * Turbowarp Desktop https://turbowarp.org/                                       *
+   * Turbowarp Desktop Packager https://turbowarp.org/                              *
+   * Scratch Desktop https://scratch.mit.edu/                                       *
+   *********************************************************************************/
+
+
+.box5 {
+    padding: 1em 1.5em;
+    background-color: #F6F2EF;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.box5 .box5-border {
+    position: absolute;
+    border: dashed 2px #B69E8C;
+    content: '';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0.5em;
+    border-radius: 10px;
+    z-index: -1;
+}
+.box11 {
+    background-color: #fff;
+    padding: 1.5em 1em 1em 1em;
+    position: relative;
+    border: solid 1px #BC8F8F;
+}
+
+.box11 .box-title {
+    background-color: #BC8F8F;
+    font-size: 13px;
+    font-weight: normal;
+    color: #FFFFFF;
+    padding: 7px 10px;
+    line-height: 1;
+    position: absolute;
+    top: -12px;
+    left: 15px;
+}
+.box12 {
+    padding: 2em 1em 0.5em;
+    position: relative;
+    border: solid 1px #8FBCBC;
+}
+
+.box12 .box-title {
+    background: #8FBCBC;
+    font-size: 13px;
+    border-radius: 0 0 0 0;
+    font-weight: normal;
+    color: #FFFFFF;
+    padding: 5px 15px 5px 10px;
+    line-height: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.box13 {
+    position: relative;
+    margin-top: 3em;
+    padding: 1.2em 1em 0.8em;
+    background-color: #F4F5F7;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.box13 .box-title {
+    position: absolute;
+    width: 40%;
+    left: 50%;
+    top: -15px;
+    transform: translateX(-50%);
+    padding: 0 10px;
+    border-right: 1.5px dotted rgb(0 0 0 / 5%);
+    border-left: 1.5px dotted rgb(0 0 0 / 5%);
+    box-shadow: 0 0 5px rgb(0 0 0 / 10%);
+    background-color: rgb(255 255 255 / 50%);
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+}
