@@ -1,0 +1,47 @@
+   /*********************************************************************************
+   *                                                                                *
+   * Create by w11ad                                                                *
+   * https://github.com/w11ad/                                                      *
+   *                                                                                *
+   * Versoon beta  March/22/2025  upload                                            *
+   * Version 1.0  March/22/2025 画面を中央ぞろえに修正                                *
+   *                                                                                *
+   *                                                                                *
+   *                                                                                *
+   * Thank you for:                                                                 *
+   * Microsoft Windows11 https://microsoft.com/windows11/                           *
+   * VScode Desktop https://vscode.com/  Online Editor https://vscode.dev/          *
+   * Github Desktop https://github.com/  Online Editor https://github.dev/          *
+   * Turbowarp Desktop https://turbowarp.org/                                       *
+   * Turbowarp Desktop Packager https://turbowarp.org/                              *
+   * Scratch Desktop https://scratch.mit.edu/                                       *
+   *********************************************************************************/
+
+
+.premium{
+	text-align:center;
+	line-height:0.95em;
+	font-weight:bold;
+	color: transparent;
+	background: repeating-linear-gradient(0deg, #0277BD 0.1em, #4FC3F7 0.2em, #E1F5FE 0.3em, #4FC3F7 0.4em, #0277BD 0.5em); 
+	-webkit-background-clip: text;
+}  
+.gold{
+	text-align:center;
+	line-height:0.95em;
+	font-weight:bold;
+	color: transparent;
+	background: repeating-linear-gradient(0deg, #B67B03 0.1em, #DAAF08 0.2em, #FEE9A0 0.3em, #DAAF08 0.4em, #B67B03 0.5em); 
+	-webkit-background-clip: text;
+}
+.pro{
+    text-align:center;
+	line-height:0.95em;
+	font-weight:bold;
+	color: transparent;
+	background: repeating-linear-gradient(0deg, rgb(198, 40, 198) 0.1em, rgb(234, 40, 239) 0.2em, rgb(255, 40, 238) 0.3em, rgb(239, 40, 80) 0.4em, #C62828 0.5em); 
+	-webkit-background-clip: text;
+}
+.free{
+    font-weight: bold;
+}
