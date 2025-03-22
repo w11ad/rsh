@@ -1,0 +1,40 @@
+   /*********************************************************************************
+   *                                                                                *
+   * Create by w11ad                                                                *
+   * https://github.com/w11ad/                                                      *
+   *                                                                                *
+   * Versoon beta  March/22/2025  upload                                            *
+   * Version 1.0  March/22/2025 画面を中央ぞろえに修正                                *
+   *                                                                                *
+   *                                                                                *
+   *                                                                                *
+   * Thank you for:                                                                 *
+   * Microsoft Windows11 https://microsoft.com/windows11/                           *
+   * VScode Desktop https://vscode.com/  Online Editor https://vscode.dev/          *
+   * Github Desktop https://github.com/  Online Editor https://github.dev/          *
+   * Turbowarp Desktop https://turbowarp.org/                                       *
+   * Turbowarp Desktop Packager https://turbowarp.org/                              *
+   * Scratch Desktop https://scratch.mit.edu/                                       *
+   *********************************************************************************/
+
+
+html{
+    font-size:25px;
+}
+body{
+    background-color: rgb(181, 244, 255);
+    display: block;
+}
+.contentarea{
+    width: 75%;
+    margin: 0 auto;
+    background-color: rgb(241, 252, 255);
+    padding:8px;
+
+}
+.nocopy {
+    user-select: none;
+}
+.underline{
+    text-decoration: underline;
+}
